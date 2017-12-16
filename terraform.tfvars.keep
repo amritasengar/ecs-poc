@@ -1,0 +1,4 @@
+aws_access_key = "AKIAIMAMBLAHBLAHBLAH"
+aws_secret_key = "g1bB3r1$hg1bB3r1$hg1bB3r1$hg1bB3r1$hg1bB3r1$h"
+aws_key_path = "/home/username/.ssh/eHa.pem"
+aws_key_name = "eHa"
